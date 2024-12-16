@@ -1,0 +1,15 @@
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\bin\Debug\MyAPP.exe.config
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\bin\Debug\MyAPP.exe
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\bin\Debug\MyAPP.pdb
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MyAPP.csproj.AssemblyReference.cache
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MainWindow.g.cs
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\App.g.cs
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MyAPP_MarkupCompile.cache
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MyAPP_MarkupCompile.lref
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MainWindow.baml
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MyAPP.g.resources
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MyAPP.Properties.Resources.resources
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MyAPP.csproj.GenerateResource.cache
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MyAPP.csproj.CoreCompileInputs.cache
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MyAPP.exe
+D:\Users\1213-10\Documents\3-ИСП\Дисциплина\Томашевич\MyAPP\obj\Debug\MyAPP.pdb
